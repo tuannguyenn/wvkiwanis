@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kiwanis Walnut Valley Club</title>
+	<atom:link href="http://devtest.test/feed/" rel="self" type="application/rss+xml" />
+	<link>http://devtest.test</link>
+	<description></description>
+	<lastBuildDate>Thu, 14 Jun 2018 17:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.6</generator>
+
+<image>
+	<url>http://devtest.test/contents/data/2018/06/cropped-KiwanisPin_FINAL_300dpi_8bit-3-32x32.png</url>
+	<title>Kiwanis Walnut Valley Club</title>
+	<link>http://devtest.test</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>boy</title>
+		<link>http://devtest.test/2018/06/06/boy/</link>
+		<comments>http://devtest.test/2018/06/06/boy/#respond</comments>
+		<pubDate>Wed, 06 Jun 2018 09:36:41 +0000</pubDate>
+		<dc:creator><![CDATA[test]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://devtest.test/</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<figure id="attachment_78" style="width: 5760px" class="wp-caption aligncenter"><img class="wp-image-78 size-full" src="http://devtest.test/contents/data/2018/06/2016-Borshoff-CA-Playground_1_TDGP0528.jpg" alt="" width="5760" height="3840" srcset="http://devtest.test/contents/data/2018/06/2016-Borshoff-CA-Playground_1_TDGP0528.jpg 5760w, http://devtest.test/contents/data/2018/06/2016-Borshoff-CA-Playground_1_TDGP0528-300x200.jpg 300w, http://devtest.test/contents/data/2018/06/2016-Borshoff-CA-Playground_1_TDGP0528-768x512.jpg 768w, http://devtest.test/contents/data/2018/06/2016-Borshoff-CA-Playground_1_TDGP0528-1024x683.jpg 1024w" sizes="(max-width: 5760px) 100vw, 5760px" /><figcaption class="wp-caption-text">Serving the Children of the World</figcaption></figure>
+]]></content:encoded>
+			<wfw:commentRss>http://devtest.test/2018/06/06/boy/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
